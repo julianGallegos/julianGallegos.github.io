@@ -1,0 +1,36 @@
+img {
+    width:65%; /* you can use % */
+    height: auto;
+    border-radius: 10px
+}
+
+ul{
+	padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+
+
+.jSlots-wrapper {
+    overflow: hidden;
+    height: 25px;
+   /* display: inline-block;  to size correctly, can use float too, or width*/
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+.slot { 
+	text-align: center;
+}
+
+.results{
+	padding: 10px;
+}
+
+.bottom_of_slot_machine{
+	background-color: cornflowerblue;
+	height: 50em;
+	margin: -30px;
+}
+
